@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Cite Docs"
   text: "Documentation for CiteGraph Protocol"
-  tagline: My great project tagline
+  tagline: a protocol for recognition
   actions:
     - theme: brand
       text: Markdown Examples
